@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: h3gzq4ad5-go-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/h3gzq4ad5-go
